@@ -5,6 +5,10 @@
   min-height: 100vh;
 }
 
+.btn{
+  padding: 50px
+}
+
 .button{
   font-size: 1.375rem;
   background: #0bd;
