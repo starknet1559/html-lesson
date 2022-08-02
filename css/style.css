@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+#home {
+  background-image: url(../images/sample.jpg);
+  min-height: 100vh;
+}
+
+.button{
+  font-size: 1.375rem;
+  background: #0bd;
+  color: #fff;
+  border-radius: 5px;
+  padding: 18px 32px;
+}
